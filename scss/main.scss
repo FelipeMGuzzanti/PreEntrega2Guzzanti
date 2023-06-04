@@ -1,4 +1,11 @@
-$color-prymari:blu;
-$color-prymari:pink
-;
+// variables
 
+@import 'utilities/variables ';
+// reset
+
+// layout
+
+@import 'base/reset ';
+@import 'layout/header ';
+@import 'layout/main ';
+@import 'layout/footer';
