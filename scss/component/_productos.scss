@@ -1,0 +1,115 @@
+// ****Estilos de productos *****
+
+
+h2 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 40px;
+
+}
+
+.container-cards {
+
+
+    margin-left: 13%;
+    padding-right: 15px;
+    padding: 10px;
+
+}
+
+
+
+    
+
+/**responsive-productos*/
+
+@media (max-width: 1240px) {
+
+
+    .container-cards {
+
+
+        margin-left: 10%;
+        margin-bottom: 15px;
+        padding-right: 15px;
+        padding: 10px;
+
+    }
+
+
+
+
+
+
+}
+
+@media (max-width: 1024px) {
+
+
+    .container-cards {
+
+
+        margin-left: 3%;
+
+    }
+
+
+
+
+}
+
+@media (max-width: 768px) {
+
+
+    .container-cards {
+
+
+        margin-left: 1%;
+        /* padding-right: 15px; */
+        /* padding: 8px; */
+
+    }
+
+    .card {
+
+        width: 55%;
+    }
+
+
+}
+
+@media (max-width: 480px) {
+
+
+    .container-cards {
+
+
+        margin-left: 25%;
+        
+
+    }
+
+    .card {
+
+        width: 55%;
+    }
+
+
+}
+
+@media (max-width: 360px) {
+
+
+    .container-cards {
+
+
+        margin-left: 12%;
+        /* padding-right: 15px; */
+        /* padding: 8px; */
+
+    }
+
+
+
+}
