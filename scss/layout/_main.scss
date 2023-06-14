@@ -500,9 +500,11 @@ h1 {
 .container-cards {
 
 
-    margin-left: 13%;
+    margin-left: 15%;
     padding-right: 15px;
+    margin: 2px;
     padding: 10px;
+    gap: 2px;
 
 }
 
@@ -993,7 +995,7 @@ h1 {
     }
 
     .iframe-img {
-        
+        display: none;
         margin-right: 150px;
         width:11em;
     }
